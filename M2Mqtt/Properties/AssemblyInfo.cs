@@ -37,8 +37,8 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("2021.4.29.5420")]
+[assembly: AssemblyVersion("2021.1.0.0")]
 // to avoid compilation error (AssemblyFileVersionAttribute doesn't exist) under .Net CF 3.5
 #if !WindowsCE
-[assembly: AssemblyFileVersion("2021.4.29.0")]
+[assembly: AssemblyFileVersion("2021.1.0.0")]
 #endif
